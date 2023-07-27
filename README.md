@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ana Luiza
+-  estou a curso no alura
+-  tenho 15 anos
+-  aprendendo a programação
+-  Brasil - Paraná
